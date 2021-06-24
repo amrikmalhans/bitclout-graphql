@@ -11,7 +11,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[BitClout](https://bitclout.com/) RESTful API's implementation using Nest and GraphQL.
 
 ## Installation
 
