@@ -46,5 +46,4 @@ $ yarn run test:cov
 ```
 
 ## Support
-
-This is a public API and the code is MIT-licensed and you can support me by [buying my coin on BitClout](https://bitclout.com/u/amrik)
+you can support me by [buying my coin on BitClout](https://bitclout.com/u/amrik)
